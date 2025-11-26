@@ -20,8 +20,8 @@ const usuarios = [
   },
   {
     id: 3,
-    name: "Julián Pérez",
-    email: "julian@example.com",
+    name: "Carlos Osorio",
+    email: "carlos@example.com",
     avatar: "https://i.pravatar.cc/150?img=3"
   }
 ];
